@@ -1,11 +1,7 @@
 console.log("rsh")
 
-let a=33;
-let b=77;
+ a=23;
+ b=77;
 
-if(a+b>90){
-    console.log("damngdfgdnn");
-}
-else{
-    console.log("nope");
-}
+ c=a+b;
+console.log(c);
